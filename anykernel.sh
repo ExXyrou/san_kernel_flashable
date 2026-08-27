@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=San Kernel 4.4 KernelSU Next 3.1.0 (33077) by @ardiantowb on telegram
+kernel.string=MyKernel-v1.0
 do.devicecheck=1
 do.modules=0
 do.systemless=1
